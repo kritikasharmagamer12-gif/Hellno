@@ -1,0 +1,7 @@
+{
+  "name": "Singh's Chaap India Official",
+  "description": "Premium restaurant website for authentic North Indian Chaap & Rolls with admin management system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
